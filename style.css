@@ -45,3 +45,15 @@ form .display input{
     font-size: 45px;
     box-shadow: none;
 }
+
+form input.equal{
+    width: 145px;
+}
+
+form input.operator-btn{
+    color: #33ffd8;
+}
+
+form input.add{
+    font-size: 25px;
+}
